@@ -1,5 +1,5 @@
 # About
 Web Application to track client information 
 
-# h1
+# Tech Stack
 C# & ASP.NET
