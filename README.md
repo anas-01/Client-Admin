@@ -2,4 +2,4 @@
 Web Application to track client information
 
 # Tech Stack
-C# & ASP.NET
+C#, ASP.NET & RAZOR	
