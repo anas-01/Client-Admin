@@ -1,5 +1,5 @@
 # About
-Web Application to track client information
+Web Admin Application to track client information
 
 # Tech Stack
-C#, ASP.NET & RAZOR	
+C#, ASP.NET, RAZOR & MYSQL 	
